@@ -1,5 +1,6 @@
 package karakat.almasova.com.chatApplicationBackend.services;
 
+import karakat.almasova.com.chatApplicationBackend.exception.ResourceNotFoundException;
 import karakat.almasova.com.chatApplicationBackend.models.ChatMessage;
 import karakat.almasova.com.chatApplicationBackend.models.MessageStatus;
 import karakat.almasova.com.chatApplicationBackend.repositories.ChatMessageRepository;
