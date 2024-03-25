@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa0df5f5-c6fb-4405-b28a-3127d6324752" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Desktop/01-base/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/01-base/index 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/chatApplicationBackend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/chatApplicationBackend/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/chatApplicationBackend/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/chatApplicationBackend/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/chatApplicationBackend/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/chatApplicationBackend/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/chatApplicationBackend/src/main/java/karakat/almasova/com/chatApplicationBackend/ChatApplicationBackendApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/chatApplicationBackend/src/main/java/karakat/almasova/com/chatApplicationBackend/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/chatApplicationBackend/src/main/java/karakat/almasova/com/chatApplicationBackend/config/WebSocketConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/chatApplicationBackend/src/main/java/karakat/almasova/com/chatApplicationBackend/controllers/ChatController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/chatApplicationBackend/src/main/java/karakat/almasova/com/chatApplicationBackend/exception/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/chatApplicationBackend/src/main/java/karakat/almasova/com/chatApplicationBackend/models/ChatMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/chatApplicationBackend/src/main/java/karakat/almasova/com/chatApplicationBackend/models/ChatNotification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/chatApplicationBackend/src/main/java/karakat/almasova/com/chatApplicationBackend/models/ChatRoom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/chatApplicationBackend/src/main/java/karakat/almasova/com/chatApplicationBackend/models/MessageStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/chatApplicationBackend/src/main/java/karakat/almasova/com/chatApplicationBackend/repositories/ChatMessageRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/chatApplicationBackend/src/main/java/karakat/almasova/com/chatApplicationBackend/repositories/ChatRoomRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/chatApplicationBackend/src/main/java/karakat/almasova/com/chatApplicationBackend/services/ChatMessageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/chatApplicationBackend/src/main/java/karakat/almasova/com/chatApplicationBackend/services/ChatRoomService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/chatApplicationBackend/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/chatApplicationBackend/src/test/java/karakat/almasova/com/chatApplicationBackend/ChatApplicationBackendApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/8.2.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/8.2.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/8.2.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/8.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/8.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/8.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/8.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/8.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/8.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/8.2.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/8.4/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/8.4/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/8.4/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/8.4/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/8.4/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/8.4/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/8.4/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/8.4/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/8.4/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/app.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/TechnoBackendApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/configuration/StorageConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/controllers/BlogController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/controllers/FileController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/controllers/TagController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/dtos/BlogCreateRequestDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/dtos/BlogDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/dtos/CreateTagDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/dtos/ErrorResponseDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/dtos/TagDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/entities/Blog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/entities/Tag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/exceptions/DbObjectNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/exceptions/FileStorageException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/exceptions/handler/GlobalExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/mappers/BaseMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/mappers/BlogMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/mappers/BlogMapperImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/mappers/TagMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/mappers/TagMapperImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/mappers/custom/BlogCustomMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/repositories/BlogRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/repositories/TagRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/security/CustomAccessDeniedHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/security/CustomCorsFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/security/KeycloakJwtRolesConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/security/SecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/security/UserPrincipal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/services/BlogService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/services/StorageService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/services/TagService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/services/impl/BlogServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/services/impl/StorageServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/classes/java/main/techno/hub/backend/services/impl/TagServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/generated/sources/annotationProcessor/java/main/techno/hub/backend/mappers/BlogMapperImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/generated/sources/annotationProcessor/java/main/techno/hub/backend/mappers/TagMapperImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/libs/backend-0.0.1-SNAPSHOT-plain.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/libs/backend-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/resolvedMainClassName" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/resources/main/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/resources/main/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/resources/main/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/tmp/bootJar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/TechnoBackendApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/configuration/StorageConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/controllers/BlogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/controllers/FileController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/controllers/TagController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/dtos/BlogCreateRequestDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/dtos/BlogDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/dtos/CreateTagDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/dtos/ErrorResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/dtos/TagDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/entities/Blog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/entities/Tag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/exceptions/DbObjectNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/exceptions/FileStorageException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/exceptions/handler/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/mappers/BaseMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/mappers/BlogMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/mappers/TagMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/mappers/custom/BlogCustomMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/repositories/BlogRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/repositories/TagRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/security/CustomAccessDeniedHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/security/CustomCorsFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/security/KeycloakJwtRolesConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/security/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/security/UserPrincipal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/services/BlogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/services/StorageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/services/TagService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/services/impl/BlogServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/services/impl/StorageServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/java/techno/hub/backend/services/impl/TagServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/resources/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/technoBackend-master/src/test/java/techno/hub/backend/TechnoBackendApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2eBbt3eFjduXabc2teBH0IqxTqs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/karakatalmasova/Desktop/Chat-Application-Backend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatApplicationBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="chatApplicationBackend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="karakat.almasova.com.chatApplicationBackend.ChatApplicationBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa0df5f5-c6fb-4405-b28a-3127d6324752" name="Changes" comment="" />
+      <created>1711381129643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711381129643</updated>
+      <workItem from="1711381130869" duration="362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
